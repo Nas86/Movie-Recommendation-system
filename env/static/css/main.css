@@ -1,0 +1,9 @@
+body{
+    margin: 10;
+    front-family: sans-serif;
+    color: black;
+}
+
+table, th, tr, td {
+  border: 1px solid black;
+}
