@@ -24,5 +24,13 @@ And also, most common ratings are 4 and 3.
 
 At the end, I building my recommendation system based on the Collaborative Filtering Systems. Collaborative filtering systems use a collection of user rating of items to make recommendations.
 
+## Future Work
+For further working: 
+* Support filtering movie recommendation by genres, movie  released year.
+* Add filtering for adult and children movie recommendation.
+* Recommend movies based on time specific occasions, such as Thanksgiving, Christmas, Valentin, … 
+* Building a recommendation system by using Neural Network.
+* Creating a new collaborative user recommendation based on clustering 
+
 
 
